@@ -1,0 +1,1 @@
+Estarei inserindo neste repositório todos os meus passos durante a formação de JAVA orientada a objetos da instituição ALURA, adicionarei os exercícios propostos durante o curso e seus projetos, além de anotações e projetos criados além do curso.
