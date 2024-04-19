@@ -2,6 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Olá mundo, para não zikar");
+        System.out.printf("Olá mundo, para não zikar");
     }
 }
